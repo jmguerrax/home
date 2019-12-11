@@ -1,2 +1,2 @@
 # home
-Home
+Hello Git world! :)
